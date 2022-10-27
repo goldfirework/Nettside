@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(192, 190, 190);
+    font-family: Helvetica;
+}
+
+.div1 {
+    border: 5px;
+    border-radius: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: inset;
+    text-align: center;
+    margin: 18px;
+}
+
+.tob {
+    margin: 18px;
+    border: 5px;
+    border-radius: 1px;
+    border-color: rgb(0, 0, 0);
+    border-style: inset;
+    display: flex;
+    align-items: center;
+}
+
+#elefant {
+    max-width: 10000px;
+    margin: 20px;
+}
+
+#elefant-tekst {
+    margin: 20px;
+}
