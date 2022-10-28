@@ -22,11 +22,7 @@ body {
     align-items: center;
 }
 
-#elefant {
-    max-width: 10000px;
-    margin: 20px;
-}
-
-#elefant-tekst {
+#bildeavmeg {
+    max-width: 500px;
     margin: 20px;
 }
