@@ -18,11 +18,10 @@ body {
     border-radius: 1px;
     border-color: rgb(0, 0, 0);
     border-style: inset;
-    display: flex;
-    align-items: center;
+    text-align: center;
 }
 
 #bildeavmeg {
-    max-width: 500px;
+    max-height: 550px;
     margin: 20px;
 }
